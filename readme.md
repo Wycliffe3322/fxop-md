@@ -66,4 +66,4 @@ If you prefer to run the bot on your local machine, follow these steps:
 
 ### Support
 
-If you need any help or have questions, feel free to reach out through the [official WhatsApp support channel](https://whatsapp.com/channel/0029VambPbJ2f3ERs37HvM2J).
+If you need any help or have questions, feel free to reach out through the [official WhatsApp support channel](https://whatsapp.com/channel/0029VambPbJ2fj3ERs37HvM2J).
